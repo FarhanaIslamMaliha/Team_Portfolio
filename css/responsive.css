@@ -1,0 +1,317 @@
+@media(min-width:320px) and (max-width:575px) {
+
+    .title p {
+        width: auto;
+        font-size: 13px;
+    }
+
+    nav button:focus {
+        outline: 0;
+    }
+
+    nav button i {
+        color: #fff;
+        border-radius: 5px;
+        background: #fec600;
+        width: 40px;
+        height: 40px;
+        line-height: 40px !important;
+        text-align: center;
+    }
+
+    nav ul {
+        background: #222222;
+        text-align: center;
+
+    }
+
+    .navbar-brand {
+        padding-left: 10px;
+    }
+
+    nav {
+        width: 100% !important;
+        top: 0 !important;
+        background: #000 !important;
+    }
+
+    nav ul li {
+        margin-left: 0px;
+    }
+
+    nav ul li .active a::after {
+        width: 0;
+    }
+
+    nav ul li a:hover:after {
+        width: 0;
+    }
+
+
+    #banner-part .banner .overlay {
+        padding-top: 100px;
+        padding-bottom: 144px;
+    }
+
+    #banner-part .banner .overlay h1 {
+        font-size: 45px;
+    }
+
+    #banner-part .banner .overlay h3 {
+        font-size: 27px;
+    }
+
+    #banner-part .banner .overlay p {
+        width: auto;
+    }
+
+    #banner-part ul {
+        bottom: 53px;
+    }
+
+    #about-part .about p {
+        width: auto !important;
+        height: auto !important;
+        padding: 15px;
+    }
+
+    #about-part .about .image img {
+        width: 100% !important;
+        margin-top: 20px;
+    }
+    #service-part .box1{
+        margin-bottom: 20px;
+    }
+    #team-part .item{
+         margin-bottom: 20px;
+    }
+    #testimonial .test{
+        margin-bottom: 20px;
+    }
+    #testimonial .test_text p {
+    margin-top: 0 !important;
+    font-size: 13px !important;
+}
+    
+    #footer-part .social:after {
+        display: none !important;
+    }
+
+
+}
+
+@media(min-width:576px) and (max-width:767px) {
+.title p {
+        width: auto;
+        font-size: 13px;
+    }
+
+    nav button:focus {
+        outline: 0;
+    }
+
+    nav button i {
+        color: #fff;
+        border-radius: 5px;
+        background: #fec600;
+        width: 40px;
+        height: 40px;
+        line-height: 40px !important;
+        text-align: center;
+    }
+
+    nav ul {
+        background: #222222;
+        text-align: center;
+
+    }
+
+    .navbar-brand {
+        padding-left: 10px;
+    }
+
+    nav {
+        width: 100% !important;
+        top: 0 !important;
+        background: #000 !important;
+    }
+
+    nav ul li {
+        margin-left: 0px;
+    }
+
+    nav ul li .active a::after {
+        width: 0;
+    }
+
+    nav ul li a:hover:after {
+        width: 0;
+    }
+
+
+    #banner-part .banner .overlay {
+        padding-top: 100px;
+        padding-bottom: 144px;
+    }
+
+    #banner-part .banner .overlay h1 {
+        font-size: 45px;
+    }
+
+    #banner-part .banner .overlay h3 {
+        font-size: 27px;
+    }
+
+    #banner-part .banner .overlay p {
+        width: auto;
+    }
+
+    #banner-part ul {
+        bottom: 53px;
+    }
+
+    #about-part .about p {
+        width: auto !important;
+        height: auto !important;
+        padding: 15px;
+    }
+    #about-part .about .image{
+        text-align: center;
+    }
+    #about-part .about .image img {
+        margin-top: 20px;
+    }
+    #service-part .box1{
+        margin-bottom: 20px;
+    }
+    #team-part .item{
+         margin-bottom: 20px;
+    }
+    #testimonial .test{
+        margin-bottom: 20px;
+    }
+    #testimonial .test_text p {
+    margin-top: 0 !important;
+    font-size: 13px !important;
+}
+    
+    #footer-part .social:after {
+        display: none !important;
+    }
+}
+
+
+
+@media(min-width:768px) and (max-width:991px) {
+
+  .title p {
+        width: auto;
+        font-size: 13px;
+    }
+
+    nav button:focus {
+        outline: 0;
+    }
+
+    nav button i {
+        color: #fff;
+        border-radius: 5px;
+        background: #fec600;
+        width: 40px;
+        height: 40px;
+        line-height: 40px !important;
+        text-align: center;
+    }
+
+    nav ul {
+        background: #222222;
+        text-align: center;
+
+    }
+
+    .navbar-brand {
+        padding-left: 10px;
+    }
+
+    nav {
+        width: 100% !important;
+        top: 0 !important;
+        background: #000 !important;
+    }
+
+    nav ul li {
+        margin-left: 0px;
+    }
+
+    nav ul li .active a::after {
+        width: 0;
+    }
+
+    nav ul li a:hover:after {
+        width: 0;
+    }
+
+
+    #banner-part .banner .overlay {
+        padding-top: 100px;
+        padding-bottom: 144px;
+    }
+
+    #banner-part .banner .overlay h1 {
+        font-size: 45px;
+    }
+
+    #banner-part .banner .overlay h3 {
+        font-size: 27px;
+    }
+
+    #banner-part .banner .overlay p {
+        width: auto;
+    }
+
+    #banner-part ul {
+        bottom: 53px;
+    }
+
+    #about-part .about p {
+        width: auto !important;
+        height: auto !important;
+        padding: 15px;
+    }
+    #about-part .about .image{
+        text-align: center;
+        
+    }
+    #about-part .about .image img {
+        margin-top: 20px;
+        width: 100% !important;
+    }
+    #service-part .box1{
+        margin-bottom: 20px;
+    }
+    #team-part .item{
+         margin-bottom: 20px;
+    }
+    #testimonial .test{
+        margin-bottom: 20px;
+    }
+    #testimonial .test_text p {
+    margin-top: 0 !important;
+    font-size: 13px !important;
+}
+    
+    #footer-part .social:after {
+        display: none !important;
+    }
+}
+
+@media(min-width:992px) and (max-width:1199px) {
+#about-part .about p {
+    width: auto !important;
+    height:auto !important;
+}
+    #team-part .item{
+         margin-bottom: 20px;
+    }
+
+
