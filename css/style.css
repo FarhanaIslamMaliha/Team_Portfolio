@@ -228,7 +228,8 @@ nav ul li a:hover:after {
 #service-part {
     padding-top: 50px;
     padding-bottom: 100px;
-   background: linear-gradient(to left bottom,rgba(114, 72, 30, 0.62),#4b64a8); 
+/*   background: linear-gradient(to left bottom,rgba(114, 72, 30, 0.62),#4b64a8); */
+    background: url('../images/image_3.png');
 }
 #service-part .box {
     margin-bottom: 100px;

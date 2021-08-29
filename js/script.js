@@ -14,11 +14,7 @@ $(function () {
 
 $(window).scroll(function () {
     var scrolling = $(this).scrollTop();
-    if (scrolling > 100) {
-        $('.back-top').fadeIn(500);
-    } else {
-        $('.back-top').fadeOut(500);
-    }
+    
           if(scrolling > 150){
           $('.menu').addClass('fixed');
       }
